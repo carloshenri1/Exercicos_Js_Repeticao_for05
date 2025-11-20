@@ -1,2 +1,2 @@
-# Exercicos_Js_Repeticao_for05
-Desenvolvido em sala de aula
+# Lista-05-de-Exercicios-Estrutura-de-Repeticao-For
+Exercicios realizados utilizando as tecnologias HTML, CSS e JS 
